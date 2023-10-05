@@ -60,3 +60,15 @@ print(Double(a) + b)
 
 ```
 
+**十进位数字类型 Decimal**
+```
+import Foundation
+
+let decimal: Decimal = 1
+let decimal2 =  Decimal(1)
+
+
+let decimal4 = Decimal(String:"3.24")!
+print(decimal4)
+```
+![](https://img.surgee.me/file/6e7d2e84b96043364b6f2.png)
