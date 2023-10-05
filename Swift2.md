@@ -21,14 +21,15 @@
 ![](https:img.surgee.me/file/6499372754c64494483ad.png)
 
 
-``
+```
 let int: Int =1
 let float: Float =2
 let double: Double =3
 
 
 let number = Double(1.0)
-``
+```
+
 **The maximum value of a floating-point number does not mean that all numbers smaller than it can be stored with precision**
 **Int can be queried through the max and min ranges**
 **Double is safe for 15 consecutive digits, Float is safe for 6 consecutive digits**
