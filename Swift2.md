@@ -30,8 +30,8 @@ let double: Double =3
 let number = Double(1.0)
 ``
 **The maximum value of a floating-point number does not mean that all numbers smaller than it can be stored with precision**
-**Int can be queried through the max and min ranges **
-**Double is safe for 15 consecutive digits, Float is safe for 6 consecutive digits **
+**Int can be queried through the max and min ranges**
+**Double is safe for 15 consecutive digits, Float is safe for 6 consecutive digits**
 
 
 ### Why does it have to be the same type to add up?
@@ -69,8 +69,8 @@ let double: Double =3
 let number = Double(1.0)
 ``
 **The maximum value of a floating-point number does not mean that all numbers smaller than it can be stored with precision**
-**Int can be queried through the max and min ranges **
-**Double is safe for 15 consecutive digits, Float is safe for 6 consecutive digits **
+**Int can be queried through the max and min ranges**
+**Double is safe for 15 consecutive digits, Float is safe for 6 consecutive digits**
 
 
 ### Why does it have to be the same type to add up? 
