@@ -30,7 +30,7 @@ let double: Double =3
 let number = Double(1.0)
 ```
 
-**The maximum value of a floating-point number does not mean that all numbers smaller than it can be stored with precision**
+**The maximum value of a floating-point number does not mean that all numbers smaller than it can be stored with precision**   
 
 **Int can be queried through the max and min ranges**
 
@@ -81,14 +81,14 @@ let number = Double(1.0)
 
 ### Why does it have to be the same type to add up? 
 
-
+```
 let x = 1 / 2   ## 0.5
 print(x)  ##0
 
 let x1 = 1 / 2.0 
-print(x1)
+print(x1) 
 let x2: Double = 1 / 2
 print(x2)
-
+```
 
 
