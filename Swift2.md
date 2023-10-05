@@ -31,22 +31,32 @@ let double: Double =3
 let number = Double(1.0)
 ```
 
-**The maximum value of a floating-point number does not mean that all numbers smaller than it can be stored with precision**
+**浮点数的最大值不代表所有比它小的数字都可以精确存储**
 
-**Int can be queried through the max and min ranges**
+**Int 可以通过 max 和 min 查询范围**
 
-**Double is safe for 15 consecutive digits, Float is safe for 6 consecutive digits**
+**Double 可以安全地放 15 个连续数字, Float 可以安全的放 6 个连续的数字**
 
-### Why does it have to be the same type to add up? 
+### 为什么要同类型才能相加？
 
 ```
-let x = 1 / 2   ## 0.5
-print(x)  ##0
+let x = 1 / 2   // 0.5
+print(x)  ## 0
 
-let x1 = 1 / 2.0 
-print(x1) 
+let x1 = 1 / 2.0  //0.5
+print(x1)  ## 0.5
+
 let x2: Double = 1 / 2
 print(x2)
-```
 
+
+```
+![](https://img.surgee.me/file/888ca6d22afe5032a959d.png)
+
+```
+let a = 1
+let b = 2.0
+print(Double(a) + b)
+
+```
 
