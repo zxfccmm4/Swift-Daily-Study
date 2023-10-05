@@ -42,7 +42,7 @@ print("Hello \(name) from \(location) )
 
 ## 运算子
 
-！[](https://img.surgee.me/file/b746cdfa188a1cb00ff3d.png)
+![](https://img.surgee.me/file/b746cdfa188a1cb00ff3d.png)
 
 ![](https://img.surgee.me/file/2f066b672774b4907f3b3.png)
 
